@@ -41,7 +41,7 @@ ollama run llama3.2:1b
 ### 2. Clone the Repository
 ```bash
 
-git clone [https://github.com/Shubhanshi-Shaurya/AI-Agent-for-Development.git](https://github.com/Shubhanshi-Shaurya/AI-Agent-for-Development.git)
+git clone [https://github.com/Shubhanshi-Shaurya/AI-Agent-for-Development](https://github.com/Shubhanshi-Shaurya/AI-Agent-for-Development)
 cd AI-Agent-for-Development
 
 cd AI-Agent-for-Development
