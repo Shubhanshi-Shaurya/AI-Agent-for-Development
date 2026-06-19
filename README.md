@@ -81,6 +81,8 @@ streamlit run app.py
 
 4. Enter an application idea and click Generate App to watch the agents collaborate!
 
+---
+
 ## Project Structure
 ```text
 
